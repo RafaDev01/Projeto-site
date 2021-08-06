@@ -15,8 +15,8 @@ main {
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.151);
 }
 
-div.lado {
-  background-color: black;
+article div.lado {
+  background: black;
   height: 80px;
   width: 80px;
   float: right;
